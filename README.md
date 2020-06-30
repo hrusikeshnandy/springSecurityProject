@@ -4,4 +4,4 @@
 - create a data base
 - create a table user in the same database
 - insert some records to access 
-- for bcrypting password, generate a password using any web site which generate normal text to bcrypt password. Then sore the same to database
+- for bcrypting password, generate a password using any web site which generate normal text to bcrypt password. Then same the same to database
